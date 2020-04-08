@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Fitbea - Helping people to be fit', // Site title.
   siteTitleAlt: 'Fitbe- #Be A Fit', // Alternative site title for SEO.
   siteLogo: '/icons/icon-512x512.png', // Logo used for SEO and manifest.
-  siteUrl: 'https:/fitbea.com', // Domain of your website without pathPrefix.
+  siteUrl: 'https://fitbea.com', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription: 'Helping people to be fit.', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml',
