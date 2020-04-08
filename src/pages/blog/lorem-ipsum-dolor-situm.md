@@ -14,17 +14,10 @@ meta_description: >-
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
 ---
+മൃഗങ്ങളിലും മനുഷ്യരിലും ശ്വാസകോശ സംബന്ധമായ അണുബാധകൾ ഉണ്ടാക്കുന്ന വൈറസുകളുടെ കുടുംബത്തെ കൊറോണ വൈറസുകൾ പരാമർശിക്കുന്നു. നിലവിൽ ഏഴ് കൊറോണ വൈറസുകൾ മനുഷ്യരെ ബാധിക്കുന്നതായി അറിയപ്പെടുന്നു, ഇവയിൽ 4 എണ്ണം സാധാരണയായി ലോകമെമ്പാടും കാണപ്പെടുന്നു, മാത്രമല്ല നേരിയ പനി പോലെ ഉള്ള ലക്ഷണങ്ങൾക്ക് കാരണമാകുന്നു. ബാക്കിയുള്ള മൂന്നെണ്ണം [മിഡിൽ ഈസ്റ്റ് റെസ്പിറേറ്ററി സിൻഡ്രോം(middle east respiratory syndrome), അല്ലെങ്കിൽ എം. ഈ. ആർ. എസ്-സി. ഒ. വി (MERS-CoV) മൂലമുണ്ടായ എം.ഈ.ആർ.എസ് (MERS)](<>), [എസ്. എ. ആർ. എസ്. - സി. ഒ. വി. സിവിയർ(SARS-CoV Severe) മൂലമുണ്ടാകുന്ന സിവിയർ അക്യൂട്ട് റെസ്പിറേറ്ററി സിൻഡ്രോം (Severe acute respiratory syndrome)](<>), ഒടുവിൽ [എസ്. എ. ആർ. എസ്. - സി. ഒ. വി.-2 (SARS-Cov-2) ആണ് കൊറോണ വൈറസ് 2019 രോഗത്തിന് കാരണം ആകുന്നത്](<>).
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+മനുഷ്യരിൽ മുമ്പ് തിരിച്ചറിഞ്ഞിട്ടില്ലാത്ത ഒരു നോവൽ കൊറോണ വൈറസാണ് [കോവിഡ് -19](<>). ഇത് പ്രകൃതിയിൽ സൂനോട്ടിക് (Zoonotic)ആണ്, അതിനർത്ഥം ഇത് മൃഗങ്ങളിൽ നിന്ന് മനുഷ്യനിലേക്കും മനുഷ്യനിൽ നിന്ന് പരസ്പര സമ്പർക്കം മൂലവും പകരാം. 2019 ഡിസംബർ 31 ന് ചൈനയിൽ വുഹാൻ സിറ്റിയിൽ നിന്നാണ് ഇത് ആദ്യമായി [റിപ്പോർട്ട് ചെയ്തത്](<>). പനി, ക്ഷീണം, വരണ്ട ചുമ എന്നിവയാണ് COVID-19 ന്റെ ഏറ്റവും സാധാരണമായ ലക്ഷണങ്ങൾ. ചില രോഗികൾക്ക് വേദനയും, മൂക്കൊലിപ്പ്, തൊണ്ടവേദന അല്ലെങ്കിൽ വയറിളക്കം എന്നിവ ഉണ്ടാകാം.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+വൈറസ് ബാധിച്ചവരിൽ 80 % ആളുകളും സാധാരണ ലക്ഷണങ്ങൾ മാത്രം പ്രകടിപ്പിക്കുകയും സാധാരണ മെഡിക്കൽ സഹായം തേടുകയും ചെയ്തു. കൃത്യം ആയ മെഡിക്കൽ ഇടപെടൽ ഇല്ല എങ്കിൽ വൈറസ് ബാധിച്ച ആരോഗ്യ പ്രശ്നങ്ങൾ ഉള്ള വയോധികരിൽ ആരോഗ്യ സ്ഥിതി ഗുരുതരം ആകാൻ കാരണം ആകുന്നു. ഏകദേശം 14 % ആളുകൾ രോഗ ബാധിതരും 5 % ആളുകളുടെ നില ഗുരുതരം ആണ്
 
-## Most Amazing Blogging Experience.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+വൈറസ് ആഗോളതലത്തിൽ നാല്‌ ലക്ഷത്തിലധികം ആളുകളെ ബാധിക്കുകയും ഇരുപതിനായിരത്തിലധികം മരണങ്ങൾക്ക് കാരണമാവുകയും ചെയ്തു. ലോകാരോഗ്യ സംഘടന ആഗോള തലത്തിൽ വളരെ ഉയർന്ന അപകടസാധ്യത നൽകി
