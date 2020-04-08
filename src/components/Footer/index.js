@@ -9,7 +9,7 @@ const Footer = () => {
           <p>
             {config.copyright}
           </p>
-          <p>Made with love in Kerala</p><p>Funded by Grandma and cousins in United States</p>
+          <p>Made with love in Kerala</p><p>Funded by Grandma and Cousins in United States</p>
         </div>
       </div>
     </footer>
