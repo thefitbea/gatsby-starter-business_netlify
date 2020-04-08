@@ -13,7 +13,7 @@ module.exports = {
   userTwitter: 'fitbea',
   userLocation: 'Kerala. India',
   userDescription: '',
-  copyright: 'Copyright © Fitbea 2020. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
-  themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
+  copyright: 'Copyright © 2020 Fitbea. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
+  themeColor: '#ffe900', // Used for setting manifest and progress theme colors. default is #00d1b2
   backgroundColor: '#ffffff', // Used for setting manifest background color.
 }
