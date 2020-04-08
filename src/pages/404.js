@@ -10,11 +10,11 @@ const NotFoundPage = () => (
             <div className='column is-10 is-offset-1'>
               <div className='section is-centered'>
                 <h1 className='title'>
-                                    404: NOT FOUND
+                                    404: OOPS
                 </h1>
                 <h2 className='subtitle'>
-                                    You just hit a route that doesn&#39;t exist... the
-                                    sadness.
+                                    You are looking for a webpage that doesn&#39;t exist... the
+                                    sadness. Go to <a href="https://fitbea.com">Home</a>
                 </h2>
               </div>
             </div>
