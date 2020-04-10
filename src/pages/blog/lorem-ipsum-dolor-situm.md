@@ -2,7 +2,7 @@
 templateKey: article-page
 title: കൊറോണ ഗൈഡ്
 slug: കൊറോണ വൈറസ് രോഗം Covid 19 പടരുന്നതിനാൽ സുരക്ഷിതമായി തുടരാനുള്ള വഴികാട്ടി
-date: 2020-09-04T03:55:00.000Z
+date: 2020-03-09T03:55:00.000Z
 cover: /img/002.jpg
 tags:
   - lorem
